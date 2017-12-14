@@ -2,7 +2,7 @@
 
 ## Lesson Plan
 ### Introductions
-	- Introduce yourself and team and explain what you do at kCura
+- Introduce yourself and team and explain what you do at kCura
 
 ### HTML
 Show and explain the following:
